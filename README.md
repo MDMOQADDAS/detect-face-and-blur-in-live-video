@@ -1,5 +1,10 @@
 # detect-face-and-blur-in-live-video
 
+## Architecture
+
+1. First Detect the Face in Live Video
+2. Blur the Face and display
+
 ![image](https://user-images.githubusercontent.com/69861558/147645341-1ba10e6b-8fdb-4593-bd39-c102d7821bd3.png)
 
 
