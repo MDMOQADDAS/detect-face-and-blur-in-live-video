@@ -11,3 +11,6 @@
 ![image](https://user-images.githubusercontent.com/69861558/147645486-77ec3f1d-3d23-408e-976a-14a6672d51dd.png)
 
 #### Two Face detecte and blured it
+
+## Requirements
+1. pip3 install opencv-python
